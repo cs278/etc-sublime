@@ -4,7 +4,7 @@
     [
         "Vintage"
     ],
-    "rulers": [120],
+    "rulers": [80, 120],
 
     // Always use sensible line endings.
     "default_line_ending": "unix",

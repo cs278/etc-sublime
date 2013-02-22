@@ -24,3 +24,6 @@ checkout = git clone gh:titoBouzout/SideBarEnhancements.git $MR_REPO
 
 [.config/sublime-text-2/Packages/LESS]
 checkout = git clone gh:danro/LESS-sublime.git $MR_REPO
+
+[.config/sublime-text-2/Packages/SublimeLinter]
+checkout = git clone gh:SublimeLinter/SublimeLinter.git $MR_REPO

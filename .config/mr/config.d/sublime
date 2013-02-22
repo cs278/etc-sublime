@@ -1,0 +1,26 @@
+[.config/sublime-text-2/Packages/Editorconfig]
+checkout = git clone gh:sindresorhus/editorconfig-sublime.git $MR_REPO
+
+[.config/sublime-text-2/Packages/Git]
+checkout = git clone gh:kemayo/sublime-text-2-git.git $MR_REPO
+
+[.config/sublime-text-2/Packages/GitGutter]
+checkout = git clone gh:jisaacks/GitGutter.git $MR_REPO
+
+[.config/sublime-text-2/Packages/GitHub]
+checkout = git clone gh:bgreenlee/sublime-github.git $MR_REPO
+
+[.config/sublime-text-2/Packages/GitHubinator]
+checkout = git clone gh:ehamiter/ST2-GitHubinator.git $MR_REPO
+
+[.config/sublime-text-2/Packages/Gist]
+checkout = git clone gh:condemil/Gist.git $MR_REPO
+
+[.config/sublime-text-2/Packages/Puppet]
+checkout = git clone gh:eklein/sublime-text-puppet.git $MR_REPO
+
+[.config/sublime-text-2/Packages/SideBarEnhancements]
+checkout = git clone gh:titoBouzout/SideBarEnhancements.git $MR_REPO
+
+[.config/sublime-text-2/Packages/LESS]
+checkout = git clone gh:danro/LESS-sublime.git $MR_REPO

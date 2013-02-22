@@ -24,6 +24,9 @@
     // Don't leave white space hanging around.
     "trim_trailing_white_space_on_save": true,
 
+    // Keep things consistent.
+    "ensure_newline_at_eof_on_save": true,
+
     "binary_file_patterns": [
         // Images
         "*.jpg", "*.jpeg", "*.png", "*.gif", "*.tiff", "*.ico", "*.tga", "*.bmp",

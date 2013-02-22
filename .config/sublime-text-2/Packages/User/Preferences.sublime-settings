@@ -1,0 +1,52 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers": [120],
+
+    // Always use sensible line endings.
+    "default_line_ending": "unix",
+
+    // Use tab to trigger auto completion.
+    "auto_complete_commit_on_tab": false,
+
+    // Make modified files stand out
+    "highlight_modified_tabs": true,
+
+    // Pointless waste of UI, remove.
+    "show_tab_close_buttons": false,
+
+    // Shrink window title.
+    "show_full_path": false,
+
+    // Don't leave white space hanging around.
+    "trim_trailing_white_space_on_save": true,
+
+    "binary_file_patterns": [
+        // Images
+        "*.jpg", "*.jpeg", "*.png", "*.gif", "*.tiff", "*.ico", "*.tga", "*.bmp",
+
+        // Archives
+        "*.7z", "*.bin", "*.bz2", "*.cab", "*.dmg", "*.gz", "*.jar", "*.lz", "*.rar", "*.tar*", "*.xz", "*.zip",
+
+        // Package manager archives
+        "*.deb", ".rpm",
+
+        // Disk images
+        "*.iso", "*.nrg", "*.img",
+
+        // Assorted proprietary blobs
+        "*.doc", "*.docx", "*.xls", "*.xlsx", "*.pub", "*.pubx", "*.swf",
+
+        // Binary documents
+        "*.ps", "*.pdf",
+
+        // Fonts
+        "*.ttf",
+
+        // Virtual machine resources
+        "*.vfd", "*.vhd", "*.vud", "*.vmc", "*.vsv", "*.vmdk", "*.nvram", "*.vhd", "*.vdi"
+    ]
+}

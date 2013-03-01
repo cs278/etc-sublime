@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Sublime Text 2 URL Handler
+GenericName=Text Editor
+Comment=Handle URL scheme txmt://
+Exec=sublime-handler %u %U
+NoDisplay=true
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/txmt

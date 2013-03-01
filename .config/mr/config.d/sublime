@@ -30,3 +30,6 @@ checkout = git clone gh:SublimeLinter/SublimeLinter.git $MR_REPO
 
 [.config/sublime-text-2/Packages/DocBlockr]
 checkout = git clone gh:spadgos/sublime-jsdocs.git $MR_REPO
+
+[.config/sublime-text-2/Packages/AdvancedNewFile]
+checkout = git clone gh:skuroda/Sublime-AdvancedNewFile.git $MR_REPO

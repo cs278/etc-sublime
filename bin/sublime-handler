@@ -1,0 +1,11 @@
+#!/bin/bash
+
+##
+## Stolen from <http://stackoverflow.com/questions/14676981/sublime-text-url-handler-for-ubuntu/14775172#14775172>
+##
+
+request=${1:23}               # Delete the first 23 characters
+request=${request//%2F//}     # Replace %2F with /
+request=${request/&line=/:}   # Replace &line= with :
+request=${request/&column=/:} # Replace &column= with :
+sublime-text-2 $request       # Launch ST2

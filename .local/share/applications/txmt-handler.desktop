@@ -1,4 +1,6 @@
 [Desktop Entry]
+# Use the following to register.
+# xdg-mime default txmt-handler.desktop x-scheme-handler/txmt
 Name=Sublime Text 2 URL Handler
 GenericName=Text Editor
 Comment=Handle URL scheme txmt://

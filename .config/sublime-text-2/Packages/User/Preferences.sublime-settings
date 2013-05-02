@@ -4,6 +4,8 @@
     [
         "Vintage"
     ],
+
+    // Soft/hard line limit.
     "rulers": [80, 120],
 
     // Always use sensible line endings.

@@ -27,6 +27,9 @@
     // Keep things consistent.
     "ensure_newline_at_eof_on_save": true,
 
+    // Show all white space.
+    "draw_white_space": "all",
+
     "binary_file_patterns": [
         // Images
         "*.jpg", "*.jpeg", "*.png", "*.gif", "*.tiff", "*.ico", "*.tga", "*.bmp",

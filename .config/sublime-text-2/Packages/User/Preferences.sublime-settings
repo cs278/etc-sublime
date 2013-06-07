@@ -5,8 +5,8 @@
         "Vintage"
     ],
 
-    // Soft/hard line limit.
-    "rulers": [80, 120],
+    // Soft/hard/GitHub line limit.
+    "rulers": [80, 120, 104],
 
     // Always use sensible line endings.
     "default_line_ending": "unix",

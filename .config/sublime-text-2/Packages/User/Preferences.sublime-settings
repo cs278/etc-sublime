@@ -35,6 +35,32 @@
     // Highlight caret location.
     "highlight_line": true,
 
+    "file_exclude_patterns": [
+        // Python build artifacts
+        "*.pyc", "*.pyo",
+
+        // C/C++/MSVC/... like build artifacts
+        "*.o", "*.a", "*.lib", "*.dylib", "*.ncb", ".suo", ".pdb", ".idb",
+
+        // Java artifacts
+        "*.class",
+
+        // SQL Server embedded DB
+        "*.sdf",
+
+        // SQLite
+        "*.db",
+
+        // Executables
+        "*.exe", "*.dll", "*.so",
+
+        // OS fragments
+        ".DS_Store", "Thumbs.db", "desktop.ini",
+
+        // Vagrant VM identifier
+        ".vagrant"
+    ],
+
     "binary_file_patterns": [
         // Images
         "*.jpg", "*.jpeg", "*.png", "*.gif", "*.tiff", "*.ico", "*.tga", "*.bmp",

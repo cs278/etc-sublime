@@ -32,6 +32,9 @@
     // Show all white space.
     "draw_white_space": "all",
 
+    // Highlight caret location.
+    "highlight_line": true,
+
     "binary_file_patterns": [
         // Images
         "*.jpg", "*.jpeg", "*.png", "*.gif", "*.tiff", "*.ico", "*.tga", "*.bmp",

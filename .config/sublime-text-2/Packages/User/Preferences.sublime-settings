@@ -35,6 +35,11 @@
     // Highlight caret location.
     "highlight_line": true,
 
+    "folder_exclude_patterns": [
+        // VCS directories
+        ".git", ".bzr", ".svn", ".git", ".hg", "CVS"
+    ],
+
     "file_exclude_patterns": [
         // Python build artifacts
         "*.pyc", "*.pyo",

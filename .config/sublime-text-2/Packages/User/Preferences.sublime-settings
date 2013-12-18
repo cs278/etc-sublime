@@ -38,6 +38,9 @@
     // Highlight caret location.
     "highlight_line": true,
 
+    // Use proper English dictionary.
+    "dictionary": "Packages/Language - English/en_GB.dic",
+
     "folder_exclude_patterns": [
         // VCS directories
         ".git", ".bzr", ".svn", ".git", ".hg", "CVS"

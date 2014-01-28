@@ -1,4 +1,6 @@
 [
+	{ "keys": ["ctrl+w"], "command": "close" },
+	{ "keys": ["alt+t"], "command": "wolf_timestamp" },
 	{ "keys": ["ctrl+#"], "command": "valign" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste" },
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" }

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+
+/*
+ * This file is part of the ${1:$SELECTION} package.
+ *
+ * (c) Wider Plan <development@widerplan.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+]]></content>
+	<tabTrigger>WP</tabTrigger>
+	<description>Wider Plan — Copyright Header (C style)</description>
+	<scope>source.less,source.php,source.css,source.js</scope>
+</snippet>

@@ -5,6 +5,8 @@
         "Vintage"
     ],
 
+    "font_size": 11,
+
     // Soft/hard/GitHub line limit.
     "rulers": [80, 120, 104],
 

@@ -39,3 +39,6 @@ checkout = git clone gh:jlong64/sublime_valign.git $MR_REPO
 
 [.config/sublime-text-2/Packages/WolfTime]
 checkout = git clone gh:le6o/Sublime-WolfTime.git $MR_REPO
+
+[.config/sublime-text-2/Packages/SublimeAllAutocomplete]
+checkout = git clone gh:alienhard/SublimeAllAutocomplete.git $MR_REPO

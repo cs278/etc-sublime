@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+set -u
+
+if [ $# -gt 0 ];
+then
+	cat "$1" | sed 's,//,#,' | pjson
+
+else
+	sed 's,//,#,' | pjson
+fi
+

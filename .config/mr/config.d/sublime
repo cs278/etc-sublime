@@ -20,7 +20,7 @@ checkout = git clone gh:condemil/Gist.git $MR_REPO
 checkout = git clone gh:eklein/sublime-text-puppet.git $MR_REPO
 
 [.config/sublime-text-2/Packages/SideBarEnhancements]
-checkout = git clone gh:titoBouzout/SideBarEnhancements.git $MR_REPO
+checkout = git clone cs278:SideBarEnhancements.git $MR_REPO
 
 [.config/sublime-text-2/Packages/LESS]
 checkout = git clone gh:danro/LESS-sublime.git $MR_REPO

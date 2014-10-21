@@ -13,6 +13,8 @@
 !/.config/sublime-text-2/Packages/User/Default (Linux).sublime-mousemap
 !/.config/sublime-text-2/Packages/User/Preferences.sublime-settings
 !/.config/sublime-text-2/Packages/User/WiderPlanCopyrightC.sublime-snippet
+!/.gitignore.d
+!/.gitignore.d/sublime
 !/.local
 !/.local/share
 !/.local/share/applications

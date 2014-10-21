@@ -1,0 +1,20 @@
+*
+!/bin
+!/bin/sublime-handler
+!/bin/sublime-json
+!/.config
+!/.config/mr
+!/.config/mr/config.d
+!/.config/mr/config.d/sublime
+!/.config/sublime-text-2
+!/.config/sublime-text-2/Packages
+!/.config/sublime-text-2/Packages/User
+!/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap
+!/.config/sublime-text-2/Packages/User/Default (Linux).sublime-mousemap
+!/.config/sublime-text-2/Packages/User/Preferences.sublime-settings
+!/.config/sublime-text-2/Packages/User/WiderPlanCopyrightC.sublime-snippet
+!/.local
+!/.local/share
+!/.local/share/applications
+!/.local/share/applications/txmt-handler.desktop
+!/README.md
